@@ -41,15 +41,15 @@ def main():
     st.markdown("""
         <style>
             body {
-                background-color: #f4f6f7;
+                background-color: blue;
             }
             .css-18e3th9 {
-                background-color: #fefefe;
+                background-color: white;
                 border-radius: 12px;
                 padding: 2rem;
             }
             .stButton>button {
-                background-color: #4CAF50;
+                background-color: green;
                 color: white;
                 border-radius: 8px;
                 padding: 0.6rem 1.2rem;
